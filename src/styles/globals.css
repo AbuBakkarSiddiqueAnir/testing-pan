@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Quicksand";
+  src: url("../fonts/Quicksand-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("../fonts/Gilroy-Bold.woff");
+}
+
+body {
+  background: linear-gradient(147deg, #0e1a1f, #1c3e42);
+}
+
+h1,
+h2,
+h3,
+h3,
+h5,
+p {
+  margin: 0;
+  font-family: Quicksand;
+}
